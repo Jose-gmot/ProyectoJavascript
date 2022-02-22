@@ -9,7 +9,7 @@ public static boolean esPrimo(int numero){
     contador++;
   }
   return primo;
-
+//Hola, soy Miguel editando el archivo de Jose
 }
 
 
