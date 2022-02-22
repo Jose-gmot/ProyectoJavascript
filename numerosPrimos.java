@@ -1,3 +1,4 @@
+
 public static boolean esPrimo(int numero){
   int contador = 2;
   boolean primo=true;
