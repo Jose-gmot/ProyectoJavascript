@@ -2,7 +2,11 @@
 // Esta es mi funcion
 =======
 
+<<<<<<< HEAD
 // Esta es mi funcion, estoy en la rama experimentafuncion
+>>>>>>> experimentafuncion
+=======
+// Esta es mi funcion, estoy en la rama experimentafuncion.
 >>>>>>> experimentafuncion
 public static boolean esPrimo(int numero){
   int contador = 2;
