@@ -1,0 +1,8 @@
+# Copias de seguridad
+*.bak
+
+# Apuntes mios
+*.txt
+
+# Clases compiladas
+*.class
