@@ -3,9 +3,13 @@
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Esta es mi funcion, estoy en la rama experimentafuncion
 >>>>>>> experimentafuncion
 =======
+=======
+
+>>>>>>> experimentafuncion
 // Esta es mi funcion, estoy en la rama experimentafuncion.
 >>>>>>> experimentafuncion
 public static boolean esPrimo(int numero){
